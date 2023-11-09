@@ -1,0 +1,12 @@
+{
+    "name": "Massandje Cherif",
+    "age": 28,
+    "city": "Seattle,WA",
+    "interests": [
+        "Makeup",
+        "Skincare",
+        "Reading",
+        "I like pink blush"
+    ],
+    "is_student": true
+}
